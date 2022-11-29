@@ -11,7 +11,7 @@ export default function Home() {
         <MainView />
       ) : (
         <div className='loginContainer'>
-          <div className='loginTitle'>Log in to TikTok</div>
+          <div className='loginTitle'>Log in to Social</div>
           <div className='loginSubTitle'>
             Hello your account, check notifications, comment on videos, and
             more
@@ -22,3 +22,4 @@ export default function Home() {
     </div>
   )
 }
+raise spider vault slight enemy drip field core catalog hungry horror state
