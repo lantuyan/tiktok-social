@@ -13,7 +13,7 @@ export default function Home() {
         <div className='loginContainer'>
           <div className='loginTitle'>Log in to TikTok</div>
           <div className='loginSubTitle'>
-            Manage your account, check notifications, comment on videos, and
+            Hello your account, check notifications, comment on videos, and
             more
           </div>
           <WalletMultiButton />
